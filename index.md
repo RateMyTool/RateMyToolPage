@@ -1,10 +1,11 @@
 # RateMyTool(s)
 
-![ci-badge](https://github.com/YOUR-ORG-NAME/YOUR-REPO-NAME/workflows/ci-YOUR-REPO-NAME/badge.svg)
+![ci-badge](https://github.com/RateMyTools/RateMyTools_SC/workflows/ci-RateMyTools_SC/badge.svg)
 
 ## Table of Contents
 
 * [Overview](#overview)
+* [Links](#links)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
@@ -30,9 +31,16 @@ RateMyTool(s) is a community-driven review platform specifically for UH Manoa st
 * Upvote helpful reviews and save favorite tools
 * Receive personalized recommendations based on major and courses
 
+## Links
+
+* [GitHub Organization](https://github.com/RateMyTools)
+* [Team Contract](docs/TeamBondingContract.pdf)
+* [M1 Project Board](https://github.com/orgs/RateMyTools/projects/1)
+* [M2 Project Board](https://github.com/orgs/RateMyTools/projects/2)
+
 ## Deployment
 
-*(Coming soon - link to deployed application)*
+The application is deployed and available at: [RateMyTools on Vercel](https://rate-my-tools-sc.vercel.app/)
 
 ## User Guide
 
@@ -40,19 +48,20 @@ This section provides a walkthrough of the RateMyTool(s) user interface and its 
 
 ### Landing Page
 
-<img src="img/landing_page.png" width="800px">
+<img src="img/landingpage.png" width="800px">
 
 The landing page is presented to users when they visit the top-level URL of the site.
 
 The landing page features:
 * Overview of the platform's purpose
-* Featured tools and recently reviewed resources
-* Trending tools among UH Manoa students
+* Search functionality by college or tool
 * Prominent search bar for quick discovery
+* Clean, modern interface with library-themed background
+* Login and Sign Up options
 
 ### Tool Directory / Browse Page
 
-*(Mockup image coming soon)*
+<img src="img/compare_page.png" width="800px">
 
 A searchable and filterable catalog organized by:
 * Categories (AI Tools, Video Platforms, Practice Sites, Study Aids)
@@ -61,7 +70,7 @@ A searchable and filterable catalog organized by:
 
 ### Individual Tool Profile Page
 
-*(Mockup image coming soon)*
+<img src="img/toolpage.png" width="800px">
 
 Each tool has a dedicated profile page displaying:
 * Overall rating (5-star system)
@@ -72,7 +81,7 @@ Each tool has a dedicated profile page displaying:
 
 ### Add Review Page
 
-<img src="img/review_page.png" width="800px">
+<img src="img/ratepage.png" width="800px">
 
 Form for students to:
 * Rate a tool across multiple dimensions
@@ -82,19 +91,9 @@ Form for students to:
 
 ### Course-Specific Landing Pages
 
+<img src="img/schoolpage.png" width="800px">
+
 Dynamic pages (e.g., `/course/ICS314`) showing highly-rated tools reviewed specifically for that course.
-
-*(Mockup image coming soon)*
-
-### User Dashboard
-
-Personalized dashboard featuring:
-* Reviews you've written
-* Saved/bookmarked tools
-* Personalized recommendations based on your major and courses
-* Contribution statistics
-
-*(Mockup image coming soon)*
 
 ## Community Feedback
 
@@ -108,7 +107,7 @@ This section provides information for developers wishing to use this code base a
 
 First, [install PostgreSQL](https://www.postgresql.org/download/). Then create a database for your application.
 
-Second, go to [https://github.com/YOUR-ORG-NAME/YOUR-REPO-NAME](https://github.com/YOUR-ORG-NAME/YOUR-REPO-NAME), and click the "Use this template" button. Complete the dialog box to create a new repository that you own that is initialized with this template's files.
+Second, go to [https://github.com/RateMyTools/RateMyTools_SC](https://github.com/RateMyTools/RateMyTools_SC), and click the "Use this template" button. Complete the dialog box to create a new repository that you own that is initialized with this template's files.
 
 Third, go to your newly created repository, and click the "Clone or download" button to download your new GitHub repo to your local file system. Using [GitHub Desktop](https://desktop.github.com/) is a great choice if you use MacOS or Windows.
 
@@ -157,13 +156,23 @@ The following sections document the development history of RateMyTool(s).
 
 The goal of Milestone 1 is to create HTML mockups of the pages in the system.
 
-Milestone 1 is managed using [RateMyTools GitHub Project Board M1](LINK-TO-PROJECT-BOARD):
+Milestone 1 is managed using [RateMyTools GitHub Project Board M1](https://github.com/orgs/RateMyTools/projects/1):
 
-*(Screenshot of project board coming soon)*
+<img src="img/m1_project_board.png" width="800px">
+
+Milestone 1 consisted of five issues, and progress was managed with the RateMyTools GitHub Project Board M1:
+
+![](img/m1_project_board.png)
+
+Each issue was implemented in its own branch, and merged into main when completed:
+
+![](img/m1_network_graph.png)
 
 ### Milestone 2: Data Model Development
 
-*(Coming soon)*
+The goal of Milestone 2 is to implement the data model and connect it to the user interface.
+
+Milestone 2 is managed using [RateMyTools GitHub Project Board M2](https://github.com/orgs/RateMyTools/projects/2).
 
 ### Milestone 3: Final Touches
 
@@ -173,14 +182,13 @@ Milestone 1 is managed using [RateMyTools GitHub Project Board M1](LINK-TO-PROJE
 
 RateMyTool(s) is designed, implemented, and maintained by:
 
-* [Joseph Creollo](https://github.com/YOUR-GITHUB-USERNAME)
-* [Henry Korver](https://github.com/YOUR-GITHUB-USERNAME)
+* [Joseph Creollo](https://github.com/jcreollo00)
+* [Henry Korver](https://github.com/henrykorver)
 * [Justin Iwata](https://github.com/justiniwata)
-* [Kade Komeya](https://github.com/YOUR-GITHUB-USERNAME)
+* [Kade Komeya](https://github.com/kadekomeya)
 
 Team Portfolio Pages:
-* [Joseph Creollo Portfolio](PORTFOLIO-LINK)
-* [Henry Korver Portfolio](PORTFOLIO-LINK)
+* [Joseph Creollo Portfolio](https://jcreollo00.github.io/)
+* [Henry Korver Portfolio](https://henrykorver.github.io/)
 * [Justin Iwata Portfolio](https://justiniwata.github.io/)
-* [Kade Komeya Portfolio](PORTFOLIO-LINK)
-  
+* [Kade Komeya Portfolio](https://kadekomeya.github.io/)
