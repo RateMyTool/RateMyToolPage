@@ -154,7 +154,7 @@ The following sections document the development history of RateMyTool(s).
 
 The goal of Milestone 1 is to create HTML mockups of the pages in the system.
 
-Milestone 1 is managed using [RateMyTools GitHub Project Board M1](https://github.com/orgs/RateMyTools/projects/1):
+Milestone 1 is managed using [RateMyTools GitHub Project Board M1](https://github.com/orgs/RateMyTool/projects/1):
 
 <img src="img/m1_project_board.png" width="800px">
 
