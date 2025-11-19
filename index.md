@@ -31,10 +31,10 @@ RateMyTool(s) is a community-driven review platform specifically for UH Manoa st
 
 ## Links
 
-* [GitHub Organization](https://github.com/RateMyTools)
+* [GitHub Organization](https://github.com/RateMyTool)
 * [Team Contract](docs/TeamBondingContract.pdf)
-* [M1 Project Board](https://github.com/orgs/RateMyTools/projects/1)
-* [M2 Project Board](https://github.com/orgs/RateMyTools/projects/2)
+* [M1 Project Board](https://github.com/orgs/RateMyTool/projects/1)
+* [M2 Project Board](https://github.com/orgs/RateMyTool/projects/2)
 
 ## Deployment
 
@@ -105,7 +105,7 @@ This section provides information for developers wishing to use this code base a
 
 First, [install PostgreSQL](https://www.postgresql.org/download/). Then create a database for your application.
 
-Second, go to [https://github.com/RateMyTools/RateMyTools_SC](https://github.com/RateMyTools/RateMyTools_SC), and click the "Use this template" button. Complete the dialog box to create a new repository that you own that is initialized with this template's files.
+Second, go to [https://github.com/RateMyTool/RateMyTools_SC](https://github.com/RateMyTool/RateMyTools_SC), and click the "Use this template" button. Complete the dialog box to create a new repository that you own that is initialized with this template's files.
 
 Third, go to your newly created repository, and click the "Clone or download" button to download your new GitHub repo to your local file system. Using [GitHub Desktop](https://desktop.github.com/) is a great choice if you use MacOS or Windows.
 
@@ -154,21 +154,23 @@ The following sections document the development history of RateMyTool(s).
 
 The goal of Milestone 1 is to create HTML mockups of the pages in the system.
 
-Milestone 1 is managed using [RateMyTools GitHub Project Board M1](https://github.com/orgs/RateMyTool/projects/1):
+Milestone 1 is managed using [RateMyTool GitHub Project Board M1](https://github.com/orgs/RateMyTool/projects/1):
 
 <img src="img/m1_project_board.png" width="800px">
 
-Milestone 1 consisted of five issues, and progress was managed with the RateMyTools GitHub Project Board M1:
+Milestone 1 consisted of five issues, and progress was managed with the RateMyTool GitHub Project Board M1:
 
 ![](img/m1_project_board.png)
 
-Each issue was implemented in its own branch, and merged into main when completed
+Each issue was implemented in its own branch, and merged into main when completed:
+
+![](img/m1_network_graph.png)
 
 ### Milestone 2: Data Model Development
 
 The goal of Milestone 2 is to implement the data model and connect it to the user interface.
 
-Milestone 2 is managed using [RateMyTools GitHub Project Board M2](https://github.com/orgs/RateMyTools/projects/2).
+Milestone 2 is managed using [RateMyTool GitHub Project Board M2](https://github.com/orgs/RateMyTool/projects/2).
 
 ### Milestone 3: Final Touches
 
