@@ -1,7 +1,5 @@
 # RateMyTool(s)
 
-![ci-badge](https://github.com/RateMyTools/RateMyTools_SC/workflows/ci-RateMyTools_SC/badge.svg)
-
 ## Table of Contents
 
 * [Overview](#overview)
@@ -164,9 +162,7 @@ Milestone 1 consisted of five issues, and progress was managed with the RateMyTo
 
 ![](img/m1_project_board.png)
 
-Each issue was implemented in its own branch, and merged into main when completed:
-
-![](img/m1_network_graph.png)
+Each issue was implemented in its own branch, and merged into main when completed
 
 ### Milestone 2: Data Model Development
 
