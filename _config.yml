@@ -1,3 +1,4 @@
 title: RateMyTool(s)
 description: Community-driven review platform for UH Manoa students
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+markdown: kramdown
