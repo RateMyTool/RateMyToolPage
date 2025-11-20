@@ -1,1 +1,3 @@
-markdown: kramdown
+title: RateMyTool(s)
+description: Community-driven review platform for UH Manoa students
+theme: jekyll-theme-cayman
