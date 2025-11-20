@@ -184,9 +184,11 @@ RateMyTool(s) is designed, implemented, and maintained by:
 * [Henry Korver](https://github.com/henrykorver)
 * [Justin Iwata](https://github.com/justiniwata)
 * [Kade Komeya](https://github.com/kadekomeya)
+* [Chase Tom](https://github.com/23chasetom)
 
 Team Portfolio Pages:
 * [Joseph Creollo Portfolio](https://jcreollo00.github.io/)
 * [Henry Korver Portfolio](https://henrykorver.github.io/)
 * [Justin Iwata Portfolio](https://justiniwata.github.io/)
 * [Kade Komeya Portfolio](https://kadekomeya.github.io/)
+* [Chase Tom Portfolio](https://23chasetom.github.io/)
