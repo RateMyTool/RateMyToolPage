@@ -2,3 +2,5 @@ title: RateMyTool(s)
 description: Community-driven review platform for UH Manoa students
 theme: jekyll-theme-minimal
 markdown: kramdown
+baseurl: /RateMyToolPage
+url: https://ratemytool.github.io
