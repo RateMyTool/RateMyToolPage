@@ -38,7 +38,7 @@ RateMyTool(s) is a community-driven review platform specifically for UH Manoa st
 
 ## Deployment
 
-The application is deployed and available at: [RateMyTools on Vercel](https://rate-my-tools-sc-nu.vercel.app)
+The application is deployed and available at: [RateMyTools on Vercel](https://rate-my-tools-sc.vercel.app)
 
 ## User Guide
 
