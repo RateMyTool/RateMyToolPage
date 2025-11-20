@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
 title: RateMyTool(s)
-description: Community-driven review platform for UH Manoa students to discover and rate online learning resources
-show_downloads: false
+description: Community-driven review platform for UH Manoa students
+theme: jekyll-theme-minimal
+markdown: kramdown
