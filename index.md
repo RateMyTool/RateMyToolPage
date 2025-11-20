@@ -150,6 +150,10 @@ The development process for RateMyTool(s) conformed to [Issue Driven Project Man
 
 The following sections document the development history of RateMyTool(s).
 
+## Table Risk Management Excercise 
+
+<img src="img/table_risk_management.png" width="800px">
+
 ### Milestone 1: Mockup Development
 
 The goal of Milestone 1 is to create HTML mockups of the pages in the system.
