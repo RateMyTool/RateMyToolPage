@@ -59,7 +59,7 @@ The landing page features:
 
 ### Tool Directory / Browse Page
 
-<img src="img/compare_page.png" width="800px">
+<img src="img/comparepage.png" width="800px">
 
 A searchable and filterable catalog organized by:
 * Categories (AI Tools, Video Platforms, Practice Sites, Study Aids)
