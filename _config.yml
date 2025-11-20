@@ -1,4 +1,13 @@
 theme: jekyll-theme-cayman
-title: RateMyTool(s)
-description: Community-driven review platform for UH Manoa students to discover and rate online learning resources
-show_downloads: false
+markdown: kramdown
+```
+4. Click **"Commit changes"**
+5. Wait 2-3 minutes for GitHub Pages to rebuild
+
+This tells GitHub Pages to use Jekyll to process your markdown file into HTML.
+
+**Alternative quick check:**
+
+Try accessing this URL directly:
+```
+https://ratemytool.github.io/RateMyToolPage/index.html
