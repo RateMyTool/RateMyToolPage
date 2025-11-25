@@ -157,10 +157,10 @@ The following sections document the development history of RateMyTool(s).
 ## ER-diagram 
 
 Schema Prisma ER-Diagram 
-<img src="img/schema_prisma_diagram.png.png" width="800px">
+<img src="img/schema_prisma_diagram.png" width="800px">
 
 RateMyTools ER-Diagram
-<img src="img/ratemytools_diagram.png.png" width="800px">
+<img src="img/ratemytools_diagram.png" width="800px">
 
 ### Milestone 1: Mockup Development
 
