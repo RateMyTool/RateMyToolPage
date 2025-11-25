@@ -154,6 +154,14 @@ The following sections document the development history of RateMyTool(s).
 
 <img src="img/table_risk_management.png" width="800px">
 
+## ER-diagram 
+
+Schema Prisma ER-Diagram 
+<img src="img/schema_prisma_diagram.png.png" width="800px">
+
+RateMyTools ER-Diagram
+<img src="img/ratemytools_diagram.png.png" width="800px">
+
 ### Milestone 1: Mockup Development
 
 The goal of Milestone 1 is to create HTML mockups of the pages in the system.
