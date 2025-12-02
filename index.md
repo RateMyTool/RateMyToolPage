@@ -35,6 +35,7 @@ RateMyTool(s) is a community-driven review platform specifically for UH Manoa st
 * [Team Contract](docs/TeamBondingContract.pdf)
 * [M1 Project Board](https://github.com/orgs/RateMyTool/projects/1)
 * [M2 Project Board](https://github.com/orgs/RateMyTool/projects/2)
+* [M3 Project Board](https://github.com/orgs/RateMyTool/projects/4)
 
 ## Deployment
 
@@ -46,7 +47,7 @@ This section provides a walkthrough of the RateMyTool(s) user interface and its 
 
 ### Landing Page
 
-<img src="img/landingpage.png" width="800px">
+<img src="img/update_landingpage.png" width="800px">
 
 The landing page is presented to users when they visit the top-level URL of the site.
 
@@ -68,7 +69,7 @@ A searchable and filterable catalog organized by:
 
 ### Individual Tool Profile Page
 
-<img src="img/toolpage.png" width="800px">
+<img src="img/update_individualpage.png" width="800px">
 
 Each tool has a dedicated profile page displaying:
 * Overall rating (5-star system)
@@ -79,7 +80,7 @@ Each tool has a dedicated profile page displaying:
 
 ### Add Review Page
 
-<img src="img/ratepage.png" width="800px">
+<img src="img/update_ratepage.png" width="800px">
 
 Form for students to:
 * Rate a tool across multiple dimensions
@@ -89,7 +90,7 @@ Form for students to:
 
 ### Course-Specific Landing Pages
 
-<img src="img/schoolpage.png" width="800px">
+<img src="img/update_courselanding.png" width="800px">
 
 Dynamic pages (e.g., `/course/ICS314`) showing highly-rated tools reviewed specifically for that course.
 
