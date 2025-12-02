@@ -60,7 +60,7 @@ The landing page features:
 
 ### Tool Directory / Browse Page
 
-<img src="img/comparepage.png" width="800px">
+<img src="img/update_comparepage.png" width="800px">
 
 A searchable and filterable catalog organized by:
 * Categories (AI Tools, Video Platforms, Practice Sites, Study Aids)
@@ -183,7 +183,11 @@ Each issue was implemented in its own branch, and merged into main when complete
 
 The goal of Milestone 2 is to implement the data model and connect it to the user interface.
 
-Milestone 2 is managed using [RateMyTool GitHub Project Board M2](https://github.com/orgs/RateMyTool/projects/2).
+Milestone 2 is managed using [RateMyTool GitHub Project Board M2](https://github.com/orgs/RateMyTool/projects/2):
+
+<img src="img/m2_project_board.png" width="800px">
+
+With Milestone 2 adding and implementing the 5 different pages or issues of the application and making sure it works with Vercel. With each issue was implemented into its own branch and merged into the main when its completed. 
 
 ### Milestone 3: Final Touches
 
