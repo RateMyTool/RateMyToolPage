@@ -189,9 +189,15 @@ Milestone 2 is managed using [RateMyTool GitHub Project Board M2](https://github
 
 With Milestone 2 adding and implementing the 5 different pages or issues of the application and making sure it works with Vercel. With each issue was implemented into its own branch and merged into the main when its completed. 
 
-### Milestone 3: Final Touches
+### Milestone 3: Final Product
 
-*(Coming soon)*
+The goal of Milestone 3 is to significantly improve functionality, incorporate real data, gather community feedback, and prepare the system for final evaluation.
+
+Milestone 3 is managed using [RateMyTool GitHub Project Board M3](https://github.com/orgs/RateMyTool/projects/4):
+
+<img src="img/m3_project_board.png" width="800px">
+
+Milestone 3 consisted of sixteen issues focusing on polish, performance, and new features. The main work involved finalizing search functionality, verifying links, improving UI/UX consistency, and populating the database with real data. We added an AI automoderator and auto-tagger for robust content moderation, implemented a remove reviews feature, and completed error handling across all forms. Performance improvements were made to the Compare, Rate, and Search pages, along with CSS updates for dynamic resizing and mobile compatibility. Quality assurance testing ensured all features worked correctly before preparing the final deployment. Each issue was implemented in its own branch following IDPM guidelines and merged into main when completed.
 
 ## Team
 
