@@ -163,6 +163,12 @@ Schema Prisma ER-Diagram
 RateMyTools ER-Diagram
 <img src="img/ratemytools_diagram.png" width="800px">
 
+## OpenAI Automoderation
+
+RateMyTool(s) uses the OpenAI Moderation API to automatically screen user-submitted reviews for inappropriate content. When a review is submitted, it is sent to OpenAI's `omni-moderation-latest` model, which analyzes the text and flags content that violates community guidelines.
+
+The moderation system checks reviews against multiple categories including hate speech, harassment, violence, and other harmful content. If a review is flagged, it can be held for manual review or automatically rejected, ensuring the platform maintains a constructive and respectful environment for UH Manoa students.
+
 ### Milestone 1: Mockup Development
 
 The goal of Milestone 1 is to create HTML mockups of the pages in the system.
